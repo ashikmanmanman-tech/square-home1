@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+  <!-- Outer square tile -->
+  <path
+      android:fillColor="#FFFFFF"
+      android:pathData="M30,30 L78,30 L78,78 L30,78 Z"/>
+  <!-- Inner accent square (top-left) -->
+  <path
+      android:fillColor="#0078D4"
+      android:pathData="M34,34 L56,34 L56,56 L34,56 Z"/>
+  <!-- Inner white square (bottom-right) -->
+  <path
+      android:fillColor="#0078D4"
+      android:pathData="M58,58 L74,58 L74,74 L58,74 Z"/>
+</vector>
